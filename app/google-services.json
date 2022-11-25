@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808292751027",
+    "project_id": "fir-authwithphone-f611d",
+    "storage_bucket": "fir-authwithphone-f611d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808292751027:android:b9907c422b60cdb75602c6",
+        "android_client_info": {
+          "package_name": "com.abdurashidov.firebaseauthwithphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808292751027-11m3upkhig5k6rfnk72d16bpqnjrie0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb8FZMM4Rzts3v5ndVkSxzrs5FGlLQerE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808292751027-11m3upkhig5k6rfnk72d16bpqnjrie0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
